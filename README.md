@@ -1,6 +1,6 @@
 <h1 style="color:red;"> Welcome 👋</h1>
+<!-- 
 <h2> <b>I'm John Idoko</b></h2>  <h2> Web Developer 🌐</h2>
-
 <h2> Intersted In </h2>
 
 <ul>
@@ -20,7 +20,7 @@
   </li>
   <li> <p><b> Whatsapp: </b> +2347036060982 </p>
   </li>
-</ul>
+</ul> --->
 
 <!---
 KhengJohn/KhengJohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
